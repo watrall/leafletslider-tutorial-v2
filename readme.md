@@ -1,7 +1,9 @@
-# Leaflet Time-Slider Map Tutorial (For Absolute Beginners)
+# Leaflet Time-Slider Map Tutorial (v2)
 
 This tutorial will teach you, step by step, how to create a web map with a **time slider**.  
 The slider will let you move through different years (or dates) and see points appear on the map.
+
+This tutorial is based on a [previous verion](https://github.com/chi-initiative/LeafletSlider-tutorial) created by [Brian Geyer](https://github.com/geyerbri).  This version contains significant updates and improvements.  
 
 ⚠️ This tutorial assumes **no technical background at all**.  
 Every step is written as if you have never created a web page before.
